@@ -4,11 +4,14 @@
 
 <br>
 
-## 👋 About Me
+<h2 align="center">👋 About Me</h2>
+
+<div align="center">
 
 🎓 **동국대학교 통계학과 · SWAI(인공지능) 연계전공 재학**  
 📫 [2024110555@dgu.ac.kr](mailto:2024110555@dgu.ac.kr)  
 📝 [ChoSooa Notion](https://app.notion.com/p/ChoSooa-README-md-3ca461705e2b808dad7fc086346d8495?source=copy_link)
+
 
 </div>
 
