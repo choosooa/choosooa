@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="center">
+## 👋 About Me
 
 🎓 **동국대학교 통계학과 · SWAI(인공지능) 연계전공 재학**  
 📫 [2024110555@dgu.ac.kr](mailto:2024110555@dgu.ac.kr)  
